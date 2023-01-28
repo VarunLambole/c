@@ -19,7 +19,7 @@ int menuatt() //attendence function
     } 
    return 0;
 }
-int menu1()   //main menu function
+int menu1()   //main menu function 1
    {
    int choice;
    printf("\n\n\n\t##### MENU #####\n\t(1) ATTENDENCE\n\t(2) \n\t(3) \n\t(4)\n\t(5)\n\t(0)EXIT    \n\t:");
